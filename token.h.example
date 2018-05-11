@@ -1,0 +1,8 @@
+
+// * Wunderground Settings
+#define IS_METRIC true
+#define WUNDERGRROUND_API_KEY "<WUNDERGROUND KEY HERE>"
+#define WUNDERGRROUND_LANGUAGE "EN"
+#define WUNDERGROUND_COUNTRY "NL"
+#define WUNDERGROUND_CITY "Amsterdam"
+
